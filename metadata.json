@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Audio Downloader",
+  "description": "Premium High-Quality YouTube Audio Downloader. Paste your link, choose output formats, and download directly in-app with a real-time progress bar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
